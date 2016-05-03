@@ -1,2 +1,2 @@
 # EasyWebCool
-SomeWeb
+SomeWebFunctions by Python
